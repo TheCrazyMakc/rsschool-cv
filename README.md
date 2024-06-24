@@ -1,5 +1,3 @@
-[тут будет ссылка на сайт резюме](# rsschool-cv)
-
 # Soloviev Maxim
 
 
@@ -44,9 +42,9 @@ rollDice();
 ***************************
 
 ### Courses:
-* HTML and CSS Tutorials on the freecodecamp\
-* Frontend cours on Yandex\
-* JavaScript Manual on learnjavascript.ru (in progress)\
+* HTML and CSS Tutorials on the freecodecamp
+* Frontend cours on Yandex
+* JavaScript Manual on learnjavascript.ru (in progress)
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ***************************
