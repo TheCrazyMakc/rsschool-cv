@@ -1,6 +1,4 @@
-# rsschool-cv
-
-[тут будет ссылка на сайт резюме](https://ya.ru)
+[тут будет ссылка на сайт резюме](# rsschool-cv)
 
 # Soloviev Maxim
 
