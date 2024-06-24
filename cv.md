@@ -50,10 +50,10 @@ rollDice();
 ***************************
 
 ### My project:
-* [Проект: Путешествие по России] https://thecrazymakc.github.io/russian-travel/ 
-* [Проект: Оно-тебе-надо] https://thecrazymakc.github.io/ono-tebe-nado/ 
-* [Проект: Посмотри в окно] https://thecrazymakc.github.io/posmotri_v_okno/ 
-* [Проект: Карты подскажут] https://thecrazymakc.github.io/cards/
+* [Проект: Путешествие по России]: https://thecrazymakc.github.io/russian-travel/ "Проект: Путешествие по России"
+* [Проект: Оно-тебе-надо]: https://thecrazymakc.github.io/ono-tebe-nado/ "Проект: Оно-тебе-надо"
+* [Проект: Посмотри в окно]: https://thecrazymakc.github.io/posmotri_v_okno/ "Проект: Посмотри в окно"
+* [Проект: Карты подскажут]: https://thecrazymakc.github.io/cards/ "Проект: Карты подскажут"
 
 ************************
 
