@@ -1,0 +1,47 @@
+body {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+.header {
+    height: 260px;
+    background-color: #fadd5a;
+    display: flex;
+    justify-content: space-between;  
+}
+
+.header-logo {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 10px solid #78d4eb;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+.header-title {    
+    color: #000;
+}
+
+.header-description {
+    
+    color: #000;
+    font-size: 24px;
+}
+
+.main {
+    display: flex;
+}
+
+.left-container {
+    width: 39%;
+}
+
+.right-container {
+    width: 60%;
+}
+
+.footer {
+    height: 140px;
+    background-color: #e5fa71;
+}
