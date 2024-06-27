@@ -1,13 +1,20 @@
+* page {
+    margin: 0;
+    padding: 0;
+}
+
 body {
-    width: 1280px;
+    width: 1024px;
     margin: 0 auto;
+    box-shadow: 10px 10px 40px -1px #888;
 }
 
 .header {
     height: 260px;
-    background-color: #fadd5a;
+    background-color: #f7e594;
     display: flex;
-    justify-content: space-between;  
+    justify-content: space-between; 
+    align-items: center; 
 }
 
 .header-logo {
@@ -15,16 +22,18 @@ body {
     height: 200px;
     border-radius: 50%;
     border: 10px solid #78d4eb;
-    margin-left: 100px;
-    margin-top: 10px;
+    margin-left: 100px;    
+}
+
+.header-top {
+    margin-right: 100px;
 }
 
 .header-title {    
     color: #000;
 }
 
-.header-description {
-    
+.header-description {    
     color: #000;
     font-size: 24px;
 }
@@ -42,6 +51,6 @@ body {
 }
 
 .footer {
-    height: 140px;
-    background-color: #e5fa71;
+    height: 100px;
+    background-color: #a2a39b;
 }
