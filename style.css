@@ -1,3 +1,7 @@
+:root {
+    --main-font: Raleway;
+}
+
 * page {
     margin: 0;
     padding: 0;
@@ -7,6 +11,7 @@ body {
     width: 1024px;
     margin: 0 auto;
     box-shadow: 10px 10px 40px -1px #888;
+    font-family: var(--main-font, sans-serif);
 }
 
 .header {
@@ -32,6 +37,7 @@ body {
 .header-title {    
     color: #000;
     margin-left: 17px;
+    font-family: Raleway;
 }
 
 .header-description {    
